@@ -1,0 +1,14 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+terraform.tfvars
+
+# SSH keys
+*.pem
+
+# Kubernetes
+.kube/
+
+# OS
+.DS_Store
